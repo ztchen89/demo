@@ -4,8 +4,8 @@ import java.io.IOException;
 import java.io.PipedInputStream;
 import java.io.PipedOutputStream;
 
-import com.Receiver;
-import com.Sender;
+import com.test.aftest.Receiver;
+import com.test.aftest.Sender;
 
 public class PipedStreamTest extends Thread {
 

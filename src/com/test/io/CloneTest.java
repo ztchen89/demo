@@ -111,17 +111,5 @@ class Student implements Serializable
 		
 		//放到内存中，然后再从内存中取出来
 		return ois.readObject();
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 }
